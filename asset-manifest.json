@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notebook-APP/static/css/main.ec496ba5.css",
+    "main.js": "/Notebook-APP/static/js/main.8b76f6ba.js",
+    "index.html": "/Notebook-APP/index.html",
+    "main.ec496ba5.css.map": "/Notebook-APP/static/css/main.ec496ba5.css.map",
+    "main.8b76f6ba.js.map": "/Notebook-APP/static/js/main.8b76f6ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec496ba5.css",
+    "static/js/main.8b76f6ba.js"
+  ]
+}
