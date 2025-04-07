@@ -1,0 +1,6 @@
+import { createContext } from "react";
+
+//create context or context_API for notes....
+const note_context = createContext();//use to create context that component can provide or read.........
+
+export default note_context; 
